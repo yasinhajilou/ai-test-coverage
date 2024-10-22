@@ -1,0 +1,8 @@
+# ninja log v5
+44	88	1729519424234393184	ai_test_coverage	2cc5ea14ef78b751
+0	38	1729519849844456853	CMakeFiles/ai_test_coverage.dir/main.c.o	32735351ea2d9188
+0	54	1729519866950441257	build.ninja	85a797ba6b770ad9
+0	42	1729519866999074645	CMakeFiles/ai_test_coverage.dir/calculator.c.o	25c6a456f2467991
+42	82	1729519867039785573	ai_test_coverage	47c0337f0c36fdef
+1	35	1729520138424775864	CMakeFiles/ai_test_coverage.dir/main.c.o	32735351ea2d9188
+35	76	1729520138466922667	ai_test_coverage	47c0337f0c36fdef

@@ -33,7 +33,7 @@ As part of this project, I have:
 ## Technologies Used
 - **Programming Languages**: C, Python
 - **Version Control**: Git
-- **Testing Frameworks**: CUnit
+- **Manual Assertions**: assert.h
 - **AI Tools**: OpenAI
 - **Documentation**: Markdown
 
